@@ -3,6 +3,8 @@
 
 BIP1012 - Vize Odevi
 
-DIKKAT! Program gercek bilet satisi amacli kullanilamaz. Bu amacla duzenlenemez, paylasilamaz.
+> DİKKAT! Program gerçek bilet satışı amaçlı olarak kullanılamaz, düzenlenemez, paylaşılamaz.
 
-Programi calistirmak icin herhangi bir eklentiye ihtiyaciniz yoktur.
+
+## Folder Structure
+
