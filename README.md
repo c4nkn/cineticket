@@ -5,11 +5,4 @@
 
 
 ## Folder Structure
-📁 Classes
- └> Menu.cs
- └> Movie.cs
- └> Reservation.cs
- └> Session.cs
- └> Theater.cs
- └> Utils.cs
-Program.cs
+<pre>📁 Classes<br/>  ↳ Menu.cs<br/>  ↳ Movie.cs<br/>  ↳ Reservation.cs<br/>  ↳ Session.cs<br/>  ↳ Theater.cs<br/>  ↳ Utils.cs<br/>Program.cs
