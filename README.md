@@ -10,3 +10,13 @@
 1. Dosyaları indirin ve açın.
 2. `..\CinemaManagement\CinemaManagement\bin\Debug\net6.0` içerisindeki **CinemaManagement.exe**'yi çalıştırın.
 3. İşte bu kadar! 🥳
+
+## Info
+- Program interaktif menüler kullanılarak oluşturulmuştur. Klavyenizi kullanarak rahatça program içerisinde gezinebilirsiniz.
+- Class'lar hakkında
+  - Program.cs: Ana class. Programı çalıştırır.
+  - Movie.cs: Film. Filmlerle ilgili bilgiler.
+  - Session.cs: Seans. Seansları ayarlar, listeler.
+  - Reservation.cs: Rezervasyon. Adım adım bilet alma aşamaları.
+  - Utils.cs: İşe yarayan fonksiyonlar.
+  - Menu.cs: Interaktif menuler.
