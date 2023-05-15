@@ -13,6 +13,7 @@
 
 ## Info
 - Program interaktif menüler kullanılarak oluşturulmuştur. Klavyenizi kullanarak rahatça program içerisinde gezinebilirsiniz.
+- User-friendly olması sebebiyle kullanımı oldukça kolaydır.
 - Class'lar hakkında
   - Program.cs: Ana class. Programı çalıştırır.
   - Movie.cs: Film. Filmlerle ilgili bilgiler.
