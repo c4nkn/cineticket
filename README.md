@@ -12,8 +12,8 @@
 3. İşte bu kadar! 🥳
 
 ## Info
-- Program interaktif menüler kullanılarak oluşturulmuştur. Klavyenizi kullanarak rahatça program içerisinde gezinebilirsiniz.
-- User-friendly olması sebebiyle kullanımı oldukça kolaydır.
+- Program interaktif menuler kullanılarak oluşturulmuştur, user-friendly'dir. Klavyenizi kullanarak rahatça program içerisinde gezinebilirsiniz.
+- Ticket sayısı seçme, ASCII logo, interaktif menu, görselleştirilmiş koltuk seçme ekranı.
 - Class'lar hakkında
   - Program.cs: Ana class. Programı çalıştırır.
   - Movie.cs: Film. Filmlerle ilgili bilgiler.
